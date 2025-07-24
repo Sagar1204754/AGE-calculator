@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <meta name="google-site-verification" content="MqxPx5LrU6OV48NrkEuEuSCCM1SfoLHn-PbCLE8uR7g" />
   <meta charset="UTF-8">
   <title>Age Calculator with History</title>
   <style>
